@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Manikanta Ganji</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer && Master's Student at Kent State University</h3>
+
+🔭 Worked at Virtusa :
+- Worked as a Full-Stack Web Developer for a Bank of New York client for their Financial Reporting project
+- Planned, developed, tested, deployed, and maintained web applications as per client's needs
+- The Tech stack I have used for this project is Angular(Front-end) and Java(SpingBoot Framework) - back-end and MySQL database
+- The features I have contributed to this project improved project efficiency and User Interface experience
+- I collaboratively work with other developers, and stakeholders to ensure that the application meets all the functional and non-functional requirements
+
+🌱 I’m currently looking to improve my skills in the field **Machine Learning/AI, various Web Frameworks**
+
+💬 Ask me about **Angular, react and Spring boot frameworks**
+
+📫 How to reach me **manikanta.ganji11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
