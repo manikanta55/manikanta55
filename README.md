@@ -13,7 +13,7 @@
 
 💬 Ask me about **Angular, react and Spring boot frameworks**
 
-📫 How to reach me **manikanta.ganji11@gmail.com**
+📫 How to reach me **sganji1@kent.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
