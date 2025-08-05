@@ -18,12 +18,12 @@
 
 <h3 align="center">Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/manikanta55/UGHS_QUIZ_APP" target="_blank">
+<!--   <a href="https://github.com/manikanta55/UGHS_QUIZ_APP" target="_blank">
     <img src="https://img.shields.io/github/stars/manikanta55/UGHS_QUIZ_APP?style=social" alt="GitHub Repo stars">
     <img src="https://img.shields.io/github/forks/manikanta55/UGHS_QUIZ_APP?style=social" alt="GitHub Repo forks">
     <img src="https://img.shields.io/github/issues/manikanta55/UGHS_QUIZ_APP" alt="GitHub issues">
     <img src="https://img.shields.io/github/license/manikanta55/UGHS_QUIZ_APP" alt="GitHub license">
-  </a>
+  </a> -->
   <br>
   <a href="https://github.com/manikanta55/UGHS_QUIZ_APP"><b>UGHS Quiz AI App</b></a>
   <br>
