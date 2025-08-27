@@ -5,6 +5,7 @@
 ---
 
 🚀 **Currently building:**
+- **UGHS QPG AI Application:** A full-stack app to enhance quiz-taking and learning experience for students.
 - **UGHS Quiz AI Application:** A full-stack app to enhance quiz-taking and learning experience for students.
 - **Backend RAG Model:** Designing a Retrieval-Augmented Generation backend to generate high-quality, adaptive quizzes.
 
